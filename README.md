@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/276357414.svg)](https://zenodo.org/badge/latestdoi/276357414)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-spanish-corpus/master)
+
 
 # notebook-spanish-corpus
 Notebooks based on collections as data and Spanish text corpora.
