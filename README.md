@@ -15,6 +15,8 @@ This [example](Ranking-n-grams-based-on-Spanish-text-corpora.ipynb) is based on 
 ## Library of Congress & Chronicling America
 This [notebook](Topic-Modeling-Chronicling-America-loc.ipynb) uses historic newspapers and select digitized newspaper pages provided by Chronicling America (ISSN 2475-2703). This example is based on the [About Hispano América](https://chroniclingamerica.loc.gov/lccn/sn87021178/) that was published in San Francisco.
 
+<img src="images/loc.png">
+
 ## Topic modeling based on Spanish text corpora from the Hispanic Digital Library
 The [Hispanic Digital Library](http://www.bne.es/en/Catalogos/BibliotecaDigitalHispanica/Acercade/) is the digital library of the Biblioteca Nacional de España. It provides access to thousands of digitised documents, including books printed from the 15th to the 20th century, manuscripts, drawings, engravings, pamphlets, posters, photographs, maps, atlases, music scores, historic newspapers and magazines and audio recordings.
 
