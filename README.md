@@ -19,3 +19,5 @@ This [notebook](Topic-Modeling-Chronicling-America-loc.ipynb) uses historic news
 The [Hispanic Digital Library](http://www.bne.es/en/Catalogos/BibliotecaDigitalHispanica/Acercade/) is the digital library of the Biblioteca Nacional de España. It provides access to thousands of digitised documents, including books printed from the 15th to the 20th century, manuscripts, drawings, engravings, pamphlets, posters, photographs, maps, atlases, music scores, historic newspapers and magazines and audio recordings.
 
 This [example](Topic-Modeling-based-on-Spanish-text-corpora.ipynb) is based on the works of the author Manuel José Quintana since the library provides his works openly available as OCR output text.
+
+<img src="images/bdh.png" width="50%">
