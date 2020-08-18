@@ -6,3 +6,4 @@ wordcloud==1.6.0
 gensim==3.6.0
 requests==2.23.0
 nltk==3.4
+googletrans==3.0.0
